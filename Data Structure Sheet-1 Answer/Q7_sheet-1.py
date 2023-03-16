@@ -1,5 +1,7 @@
-"""Write a program to enter few numbers and count the positive and negative numbers
-together with their sums. When 0 is entered program should be terminated."""
+"""
+Write a program to enter few numbers and count the positive and negative numbers
+together with their sums. When 0 is entered program should be terminated.
+"""
 
 pos_sum=0
 pos_count=0

@@ -1,4 +1,5 @@
-"""4)	A Student studying in an institution is examined by course work and written examination. Both components of the assessment
+"""
+4)	A Student studying in an institution is examined by course work and written examination. Both components of the assessment
    carry a maximum of 50 marks. The following rules are applied by the examiner in order to determine whether a student passes or fails:
 i) A student must secure a total of 45% or more in order to pass.
 ii) A total mark of 44% is moderate to 45% however.

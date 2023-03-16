@@ -1,5 +1,7 @@
-"""Write a program to print the entered number in the reversed order. Also perform sum and
-multiplication with their digits."""
+"""
+Write a program to print the entered number in the reversed order. Also perform sum and
+multiplication with their digits.
+"""
 
 num=int(input("Enter a number:"))
 sum=0
